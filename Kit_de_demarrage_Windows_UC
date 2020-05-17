@@ -8,14 +8,9 @@
 choco install googlechrome -fy
 choco install firefox -fy
 
-:::: Text editors / IDEs
-choco install atom -fy
-choco install visualstudiocode -fy
-
-
-:::: Dev tools
-choco install git -fy
-
+:::: Jeux 
+choco install origin
+choco install steam
 
 :::: Media
 choco install vlc -fy
