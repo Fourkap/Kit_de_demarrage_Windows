@@ -6,7 +6,7 @@ Chercher les paquets Choco sur: https://chocolatey.org/packages
 
 Pour les mises à jour: Lancer un powershell en Admin
 
-Example: 
+Examples: 
 
     choco upgrade chocolatey
     choco upgrade notepadplusplus googlechrome atom 7zip
